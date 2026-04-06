@@ -10676,6 +10676,7 @@ ADFE87,92-0552,USAF,Lockheed C-130H Hercules,C130,Mil,Cargo,Heavy Duty,To Fly Fi
 ADFE88,92-0553,USAF,Lockheed C-130H Hercules,C130,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 ADFE89,92-0554,USAF,Lockheed C-130H Hercules,C130,Mil,Cargo,Heavy Duty,To Fly Fight And Win,USAF,https://w.wiki/3kLg
 ADFE8A,61-2666,USAF,Boeing NC-135W,C135,Mil,Testbed,Specialist,To Fly Fight And Win,Oxcart,https://en.wikipedia.org/wiki/Boeing_NC-135
+ADFE8C,12-1204,USAF,Airbus C-295W,C295,Mil,Special Operations,Call Us When Your Herc Gets Stuck,Iran War,Special Forces,https://w.wiki/Kr3U
 ADFE8D,95-00088,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 ADFE8F,95-00090,United States Army,Beech C-12V Huron,BE20,Mil,Light Transport,Utility,Priority Air Transport,Toy Soldiers,https://w.wiki/8p9A
 ADFE90,95-00091,United States Army,Beech C-12V Huron,BE20,Mil,Embassy Support,Not So VIP,Light Cargo,Toy Soldiers,https://w.wiki/8p9A
@@ -11286,6 +11287,7 @@ AE03D0,164180,United States Marine Corps,Lockheed KC-130J Hercules,C30J,Mil,Harv
 AE03D2,164441,United States Navy,Lockheed KC-130T Hercules,C130,Mil,USMC,Air2Air,Tactical Airlift,United States Navy,https://w.wiki/7ok9
 AE03D4,164597,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
 AE03D5,164598,United States Navy,Lockheed KC-130T Hercules,C130,Mil,USMC,Air2Air,Tactical Airlift,United States Navy,https://w.wiki/7ok9
+AE03D7,17-0601,USAF,Airbus C-295W,C295,Mil,Special Operations,Call Us When Your Herc Gets Stuck,Iran War,Special Forces,https://w.wiki/Kr3U
 AE03DB,165316,United States Marine Corps,Lockheed KC-130T Hercules,C130,Mil,Air2Air,Tactical Airlift,Semper Fidelis,United States Marine Corps,https://w.wiki/7ok9
 AE03DC,165352,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
 AE03DE,164762,United States Navy,Lockheed C-130T Hercules,C130,Mil,Cargo,Absolute Unit,Tactical Airlift,United States Navy,https://w.wiki/3kLg
@@ -11369,6 +11371,7 @@ AE0442,96-6044,USAF,CASA CN-235,CN35,Mil,Hot And High,STOL,To Fly Fight And Win,
 AE0443,00-9001,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://w.wiki/Kr8A
 AE0446,99-6143,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://w.wiki/Kr8A
 AE0449,02-4452,USAF,Boeing C-32B,B752,Gov,150th Special Operations Squadron,Special Ops,CIA,Special Forces,https://w.wiki/Kr8A
+AE044E,13-0501,USAF,Airbus C-295W,C295,Mil,Special Operations,Call Us When Your Herc Gets Stuck,Iran War,Special Forces,https://w.wiki/Kr3U
 AE044F,162152,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0451,162157,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
 AE0453,162160,United States Navy,Grumman C-2A Greyhound,C2,Mil,Carrier Onboard Delivery,High Priority Cargo,Mail Call,United States Navy,https://w.wiki/5CqE
@@ -15464,6 +15467,7 @@ AF4FA8,A57-002,Australian Air Force,Northrop Grumman MQ-4C Triton,Q4,Mil,UAV,Sky
 AF54C4,170747,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF6172,170750,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF6C00,170751,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
+AF83F0,24-9049,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK
 AF8420,20-1007,USAF,Boeing MH-139A Grey Wolf,A139,Mil,Get To The Choppa,ICBM Silo Security Patrol,To Fly Fight And Win,USAF,https://w.wiki/Dst$
 AF8437,170754,United States Navy,Textron T-54A Marlin II,BE20,Mil,Advanced Turbo Trainer,L-Plate,Bicycle Made for Several,United States Navy,https://w.wiki/DKS8
 AF8439,170755,United States Navy,Beech UC-12M Huron,BE20,Mil,Mission Support,Maritime Patrol,In The Navy,United States Navy,https://w.wiki/8o8J
@@ -15953,7 +15957,3 @@ E90E07,CX-MIA,Uruguay Police,Robinson R44,R44,Pol,Police Squad,Policia,Copper Ch
 E90E0E,CX-MIE,Uruguay Police,Robinson R66,R66,Pol,Police Squad,Policia,Copper Chopper,Police Forces,https://w.wiki/B3LK
 E940FA,FAB-001,Gov of Bolivia,Dassault Falcon 900EX,F900,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
 E940FB,FAB-002,Gov of Bolivia,Dassault Falcon 50,FA50,Gov,Government,Must Be Nice,Free And Fair Elections,Head of State,https://w.wiki/B3LJ
-AE03D7,17-0601,USAF,Airbus C-295W,C295,Mil,Special Operations,Call Us When Your Herc Gets Stuck,Iran War,Special Forces,https://w.wiki/Kr3U
-ADFE8C,12-1204,USAF,Airbus C-295W,C295,Mil,Special Operations,Call Us When Your Herc Gets Stuck,Iran War,Special Forces,https://w.wiki/Kr3U
-AE044E,13-0501,USAF,Airbus C-295W,C295,Mil,Special Operations,Call Us When Your Herc Gets Stuck,Iran War,Special Forces,https://w.wiki/Kr3U
-AF83F0,24-9049,USAF,Bombardier E-11A,GLEX,Mil,BACN,Quarterback,Comms,Oxcart,https://w.wiki/7snK

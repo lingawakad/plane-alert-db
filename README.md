@@ -24,17 +24,17 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15955** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15958** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15955)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15958)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12192)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12197)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
 -   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4536)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8739)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8742)
 -   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (936)
 -   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1744)
 
@@ -85,7 +85,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Oligarch|I made this money all by myself.|39|
 |Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2094|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|200|
-|Oxcart|Intelligence gathering aircraft|680|
+|Oxcart|Intelligence gathering aircraft|681|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|75|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
 |Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|918|
@@ -95,14 +95,14 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |RAF|Aircraft of the Royal Air Force|247|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
-|Special Forces|The best of the best of the best. Sir.|176|
+|Special Forces|The best of the best of the best. Sir.|179|
 |Toy Soldiers|Armies from around the world.|1074|
 |UAV|It's not natural, I tell 'ya!|64|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |Ukraine|Aircraft from Ukraine|36|
 |United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|265|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|645|
-|USAF|Aircraft of the United States Air Force|2452|
+|USAF|Aircraft of the United States Air Force|2451|
 |Vanity Plate|Distinctive registrations|78|
 |Watch Me Fly|Flying and Training Schools|75|
 |You came here in that thing?|Microlights, tiny planes and helis..think Yakima Super Breezy.|112|
