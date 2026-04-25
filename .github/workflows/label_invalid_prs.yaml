@@ -60,7 +60,7 @@ jobs:
                 name: 'invalid'
               });
             } catch (err) {
-              if (err.status === 404 && err.message === "Label does not exist") {
+              if (err.status === 404) {
                 console.log("Label not found");
               } else {
                 throw err;
