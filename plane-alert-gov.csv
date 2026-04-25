@@ -365,6 +365,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 407918,G-TEKV,UK Border Force,Tekever AR5,UAV,Gov,UAV,Border Patrol,Uphold The Public Trust,UAV,https://www.justice.gov
 407A3E,G-XATW,UK Government,Airbus A321neo,A21N,Gov,Boris Is A Liar,Waste Of Taxpayers Money,What Party?,Governments,https://www.bbc.co.uk/news/uk-politics-60159230
 407DCA,G-HMGC,HM Coastguard,Beech King Air 200,BE20,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
+407DFC,G-GBNI,Government of the United Kingdom,Airbus A321neo,A21N,Gov,VIP Transport,Governments,Keir Starmer,RAF,https://en.wikipedia.org/wiki/Air_transport_of_the_British_royal_family_and_government
 407F86,G-HMGG,HM Coastguard,Raytheon Aircraft Company King Air B350,B350,Gov,Border Patrol,Search And Rescue,Mae West,Coastguard,https://en.wikipedia.org/wiki/Her_Majesty%27s_Coastguard
 4241BB,VP-CAL,Prince Mohammed bin Fahd al Saud,Boeing 777-LR,B77L,Gov,Saudi Arabia,Government,Free And Fair Elections,Dictator Alert,https://data.dictatoralert.org/dictatorships
 4241F8,VP-FBD,Falkland Islands Government Air Service,BN Islander 2B-26,BN2P,Gov,Falkland Islands,Las Malvinas,Government,Governments,https://www.fig.gov.fk/aviationservice
@@ -600,6 +601,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 710334,HZ-HMS2,Gov of Saudi Arabia,A340-213X,A342,Gov,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
 710336,HZ-HM1C,Gov of Saudi Arabia,Boeing 747-SP,B74S,Gov,Dictator Alert,Mohammed bin Salman,AbsoluteRuler4Life,Dictator Alert,https://tinyurl.com/ykwkpu5n
 71BC65,10001,Government of Korea,Boeing 747,B744,Gov,Corporate Dictatorship,Annyeonghasimnikka,Government,Governments,https://en.wikipedia.org/wiki/Government_of_South_Korea
+71BE43,22-001,Government of South Korea,Boeing 747-8B5,B748,Gov,Corporate Dictatorship,Annyeonghasimnikka,Government,Governments,https://en.wikipedia.org/wiki/Government_of_South_Korea
 71C985,HL9185,Daegu Fire Department,Eurocopter AS350 Squirrel B2,AS50,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://tinyurl.com/mw353ct4
 71CA77,HL9277,Incheon Fire & Safety Dept,AgustaWestland AW.139,A139,Gov,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://w.wiki/4mcn
 71CC08,HL9408,Incheon Fire & Safety Dept,Bell 230,B230,Gov,Wildfire,Air Attack,Airworlf,Aerial Firefighter,https://en.wikipedia.org/wiki/Fire_services_in_South_Korea
@@ -742,7 +744,7 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 8006A9,CG773,Indian Coast Guard,Dornier Do 228-101,D228,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.indiancoastguard.gov.in/
 8006AA,CG774,Indian Coast Guard,Dornier Do 228-101,D228,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://www.indiancoastguard.gov.in/
 800B69,VT-UPJ,Government of Uttar Pradesh,B200 Super King Air,BE20,Gov,Uttar Pradesh,Anandiben Patel,Government,Governments,http://up.gov.in
-800C3D,VT-ALW,Air India One,Boeing 777-ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
+800C3D,K7067,Indian Air Force,Boeing 777-300ER,B77W,Gov,India,Narendra Modi,Government,Governments,https://www.india.gov.in/
 800D31,VT-HCA,Government of Haryana,B200GT Super King Air,BE20,Gov,Haryana,Bandaru Dattatreya,Government,Governments,https://haryana.gov.in
 80138E,VT-GOG,Government of Gujarat,Bombardier Challenger 650,CL60,Gov,Gujarat,Acharya Devvrat,Government,Governments,https://gujaratindia.gov.in
 8408F7,JA02FD,Kyoto City Fire Dept,AS365 N3 Dauphin,AS65,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://www.city.kyoto.lg.jp/shobo/page/0000002888.html
@@ -1731,13 +1733,13 @@ E01111,LQ-OEI,Government Province of La Pampa,Turbo Commander,AC90,Gov,Argentina
 E17283,LV-WJC,Government of Santa Fe,AgustaWestland AW.109,A109,Gov,Santa Fe,Omar Perotti,Government,Governments,https://www.santafenm.gov
 E2006C,GN-925,Argentine National Guard,EC135 T2,EC35,Gov,Maritime Patrol,Search And Rescue,Mae West,Coastguard,https://w.wiki/4mcb
 E400D9,FAB2101,Government of Brazil,Airbus VC-1A,A319,Gov,Brazil,Santos Dumont,Government,Governments,https://en.wikipedia.org/wiki/Federal_government_of_Brazil
-E47D2A,PT-MGS,State Gov of Minas Gerais,Cessna Citation VII,C650,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
-E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Jair Bolsonaro,Government,Governments,http://www.parana.pr.gov.br
-E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Roraima
-E48392,PP-EJO,State Gov of Minas Gerais,Beech B300 Super King Air,BE30,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
-E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://www.ceara.gov.br
+E47D2A,PT-MGS,State Gov of Minas Gerais,Cessna Citation VII,C650,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
+E47EFA,PP-MMS,Governo do Estado do Parana,Cessna 208B Caravan,C208,Gov,Brazil,Lula da Silva,Government,Governments,http://www.parana.pr.gov.br
+E482D0,PR-ERR,State Gov of Roraima,Learjet 55C,LJ55,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Roraima
+E48392,PP-EJO,State Gov of Minas Gerais,Beech B300 Super King Air,BE30,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Minas_Gerais
+E48672,PR-SZA,Governo do Estado do Ceara,Learjet 45,LJ45,Gov,Brazil,Lula da Silva,Government,Governments,https://www.ceara.gov.br
 E48A7E,PR-HGR,Brazilian Fire Service,AS350 Squirrel B2,AS50,Gov,Firebird,Air Attack,Wildfire,Aerial Firefighter,https://en.wikipedia.org/wiki/Military_Firefighters_Corps
-E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Jair Bolsonaro,Government,Governments,https://en.wikipedia.org/wiki/Bahia
+E48D63,PP-EPS,State Gov of Bahia,C90 King Air,BE9L,Gov,Brazil,Lula da Silva,Government,Governments,https://en.wikipedia.org/wiki/Bahia
 E80648,985,Chilean Air Force,Boeing 767-3ER,B763,Gov,Chile,Gabriel Boric,Government,Governments,https://en.wikipedia.org/wiki/Chilean_Air_Force
 E90546,CX-CBS,Government of Uruguay,Hawker Siddeley 125 600A,H25A,Gov,Uruguay,Luis Lacalle Pou,Government,Governments,https://w.wiki/3QbW
 E909FB,CX-CIB,Government Of Uruguay,BAe 125 700A,H25B,Gov,Uruguay,Luis Lacalle Pou,Government,Governments,https://w.wiki/3QbW

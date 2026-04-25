@@ -24,19 +24,19 @@ This project consists of lists of 'interesting' aircraft, formatted as CSV files
 
 ## Current Content
 
-There currently are about **15960** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
+There currently are about **15980** unique aircraft in **53** categories found in this repository. This [Dashboard](https://lookerstudio.google.com/reporting/94a654de-8cb5-4e7a-a3e5-e4ce25e47f37) contains details of the main list.
 These aircraft are divided into four main databases:
 
--   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15960)
+-   [plane-alert-db.csv](plane-alert-db.csv) - A list of interesting aircraft with tags, categories and links. (15980)
 -   [plane-alert-pia.csv](plane-alert-pia.csv): A list that contains PIA planes. (94)
--   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12199)
+-   [plane_images.csv](plane_images.csv): A accompanying list that contains aircraft images. (12212)
 
 Based on these main databases, several derivative databases are created using a [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml):
 
--   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4537)
--   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8742)
--   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (937)
--   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1744)
+-   [plane-alert-civ.csv](plane-alert-civ.csv) - Civilian Registered Aircraft, includes Historic and Distinctive. (4538)
+-   [plane-alert-mil.csv](plane-alert-mil.csv) - Military Only. (8757)
+-   [plane-alert-pol.csv](plane-alert-pol.csv) - Police Forces. (939)
+-   [plane-alert-gov.csv](plane-alert-gov.csv) - Governments, Gov Agencies and Dictators. (1746)
 
 A second version of each of the above lists contains up to 4 image links per aircraft. These lists are created in [GitHub action](https://github.com/sdr-enthusiasts/plane-alert-db/actions/workflows/create_db_derivatives.yaml) using the [plane_images.csv](plane_images.csv) database. **Please consider this experimental, do not come to rely on any of the image links**
 
@@ -74,7 +74,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Football|Actual, Aussie Rules or American. We don't discriminate.|23|
 |GAF|Aircraft of the German Air Force|414|
 |Gas Bags|Would you like to ride in my beautiful balloon?|14|
-|Governments|Aircraft registered to Governments|267|
+|Governments|Aircraft registered to Governments|272|
 |Gunship|Brrrrrrrrrrrrrrrrrrrt|265|
 |Hired Gun|Why do the dirty work when someone else can do it for you?|330|
 |Historic|It's older than I am and most likely has a prop.|543|
@@ -83,16 +83,16 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |Jump Johnny Jump|de Havilland Chipmunks. Air Cadets of a certain age will understand.|388|
 |Nuclear|Nuclear Emergency Support Team etc.|19|
 |Oligarch|I made this money all by myself.|39|
-|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2094|
+|Other Air Forces|Air Force aircraft that are not GAF, RAF, or USAF|2100|
 |Other Navies|Navy Aircraft that are not Royal Navy Fleet Air Arm or United States Navy|200|
 |Oxcart|Intelligence gathering aircraft|681|
 |Perfectly Serviceable Aircraft|Why do you keep jumping out of a Perfectly Serviceable Aircraft aka Skydiving planes|75|
 |PIA|Privacy ICAO Address....you can run, but you cannot hide.|15|
-|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|919|
-|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|238|
+|Police Forces|Your friendly neighbourhood flying (insert local colloquialism here).|921|
+|Ptolemy would be proud|Mapping and Aerial Survey aircraft.|239|
 |Quango|NATO, United Nations, World Bank etc.|33|
 |Radiohead|Very Very special aircraft. Think VC25.|5|
-|RAF|Aircraft of the Royal Air Force|247|
+|RAF|Aircraft of the Royal Air Force|248|
 |Royal Aircraft|Aircraft used or owned by the UK Royal Family|8|
 |Royal Navy Fleet Air Arm|Aircraft of the Royal Navy Fleet Air Arm|97|
 |Special Forces|The best of the best of the best. Sir.|179|
@@ -100,7 +100,7 @@ Think of categories like groups, with similar or related aircraft listed togethe
 |UAV|It's not natural, I tell 'ya!|64|
 |UK National Police Air Service|Your friendly neighbourhood flying bobby.|24|
 |Ukraine|Aircraft from Ukraine|36|
-|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|265|
+|United States Marine Corps|Aircraft of the United States Marine Corps, Oorah!|270|
 |United States Navy|United States Naval avaitors. Some say they are the best of the best.|645|
 |USAF|Aircraft of the United States Air Force|2451|
 |Vanity Plate|Distinctive registrations|78|

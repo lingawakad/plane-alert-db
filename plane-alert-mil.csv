@@ -3359,8 +3359,8 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7CF850,A27-18,Royal Australian Air Force,British Aerospace Hawk Mk127,HAWK,Mil,Flying Classroom,Lead-in Fighter,Bicycle Made For Two,Other Air Forces,https://www.airforce.gov.au
 7CF854,A27-10,Royal Australian Air Force,British Aerospace Hawk Mk127,HAWK,Mil,Flying Classroom,Lead-in Fighter,Bicycle Made For Two,Other Air Forces,https://www.airforce.gov.au
 7CF855,A27-21,Royal Australian Air Force,British Aerospace Hawk Mk127,HAWK,Mil,Flying Classroom,Lead-in Fighter,Bicycle Made For Two,Other Air Forces,https://www.airforce.gov.au
-7CF85C,A36-001,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
-7CF85D,A36-002,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Scott Morrison,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CF85C,A36-001,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CF85D,A36-002,Royal Australian Air Force,Boeing 737-BBJ,B737,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 7CF864,A39-001,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF865,A39-002,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CF866,A39-003,Royal Australian Air Force,Airbus A330-203-MRTT,A332,Mil,Tanker,Air2Air,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
@@ -3526,6 +3526,9 @@ $ICAO,$Registration,$Operator,$Type,$ICAO Type,#CMPG,$Tag 1,$#Tag 2,$#Tag 3,Cate
 7CFA71,A56-001,Royal Australian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,The Front Fell Off,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CFA72,A56-002,Royal Australian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,The Front Fell Off,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
 7CFA73,A56-003,Royal Australian Air Force,Dassault Falcon 7X,FA7X,Mil,Bizjet,The Front Fell Off,She'll Be Right,Other Air Forces,https://www.airforce.gov.au
+7CFA93,A62-001,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CFA94,A62-002,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
+7CFA96,A62-003,Royal Australian Air Force,Boeing 737-8 BBJ,B38M,Mil,Australia,Anthony Albanese,Government,Governments,https://en.wikipedia.org/wiki/Prime_Minister_of_Australia
 800019,352,Peruvian Air Force,Boeing 737,B732,Mil,VIP Transport,Must Be Nice,Fuerza Aerea del Peru,Other Air Forces,https://w.wiki/4n2J
 8002CC,K3602,Indian Air Force,Embraer Legacy 600,E35L,Mil,Cargo,Troop Transport,Touch The Sky With Glory,Other Air Forces,https://indianairforce.nic.in
 8002F6,K5012,Indian Air Force,Boeing 737NG-BBJ,B737,Mil,Tactical Airlift,Globemaster,Touch The Sky With Glory,Other Air Forces,https://indianairforce.nic.in
@@ -7225,6 +7228,7 @@ AE4E3F,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope
 AE4E49,????,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE4E55,168222,United States Marine Corps,MV-22B Osprey,V22,Mil,Fighting Griffins,Tiltrotor,Nope Mobile,United States Marine Corps,https://w.wiki/3ksn
 AE4E67,168240,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE4E6E,168280,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
 AE4E8D,166164,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE4E8E,166165,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
 AE4E97,166173,United States Navy,Raytheon T-6B Texan II,TEX2,Mil,Training Wheels,Bicycle Made For Two,L-Plate,United States Navy,https://w.wiki/Dixb
@@ -7360,6 +7364,9 @@ AE536E,11-20433,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE5370,12-20449,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The Choppa,Utility,Troop Transport,Toy Soldiers,https://w.wiki/3nxX
 AE538A,168596,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
 AE538D,168599,United States Navy,Grumman E-2D Hawkeye,E2,Mil,Eye In The Sky,AWACS,Airborne Early Warning,Oxcart,https://w.wiki/6Su9
+AE53EE,168292,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE53F1,168306,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
+AE53F5,168324,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
 AE53FA,12-00280,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE53FB,12-00279,United States Army,Beech MC-12S Liberty,B350,Mil,Surveillance,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
 AE53FC,12-00278,United States Army,Beech MC-12S Liberty,B350,Mil,Special Operations,Eye In The Sky,ISR,Oxcart,https://tinyurl.com/2p89t5k4
@@ -8218,6 +8225,7 @@ AE64A1,19-21094,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE64B4,168676,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE64BB,168683,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE64C0,168688,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE64C1,168689,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/3ksn
 AE64C5,168693,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE660C,17-01001,United States Army,Boeing-Vertol CH-47F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Toy Soldiers,https://w.wiki/3kWt
 AE66D3,????,United States Navy,Boeing P-8A Poseidon,P8,Mil,One Ping Only Vasily,Maritime Patrol,Eye In The Sky,United States Navy,https://w.wiki/3qBW
@@ -8372,7 +8380,7 @@ AE6A99,20-21171,United States Army,Sikorsky UH-60M Black Hawk,H60,Mil,Get To The
 AE6AA1,168694,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AA3,168696,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AA4,168697,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
-AE6AA5,168689,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
+AE6AA5,168698,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AB0,168709,United States Marine Corps,Bell MV-22B Osprey,V22,Mil,Tiltrotor,Nope Mobile,Semper Fidelis,United States Marine Corps,https://w.wiki/B3Lf
 AE6AB9,170002,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
 AE6ABA,170003,United States Marine Corps,Sikorsky CH-53K King Stallion,H53S,Mil,Chopper,Heavy Lift,Semper Fidelis,United States Marine Corps,https://www.marines.mil/
@@ -8658,6 +8666,7 @@ C2B1C5,140104,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Pa
 C2B20B,140111,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B21F,140113,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B229,140114,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
+C2B233,140115,Royal Canadian Air Force,Lockheed CP-140M Aurora,P3,Mil,What Big Eyes You Have,One Ping Only Vasily,ASW,Other Air Forces,https://w.wiki/BxdK
 C2B247,140117,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B251,140118,Royal Canadian Air Force,Lockheed CP-140 Aurora,P3,Mil,Maritime Patrol,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/BxdK
 C2B35F,15002,Royal Canadian Air Force,Airbus CC-150 304/MRTT,A310,Mil,Air2Air Refuel,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
@@ -8683,12 +8692,17 @@ C2B5AD,130614,Royal Canadian Air Force,Lockheed CC-130J-30 Hercules,C30J,Mil,Tac
 C2B5B7,130615,Royal Canadian Air Force,Lockheed CC-130J-30 Hercules,C30J,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2B5C1,130616,Royal Canadian Air Force,Lockheed CC-130J-30 Hercules,C30J,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2B5CB,130617,Royal Canadian Air Force,Lockheed CC-130J-30 Hercules,C30J,Mil,Tactical Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
+C2BB25,147301,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
+C2BB57,147306,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
+C2BB75,147309,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
+C2BBA7,147314,Royal Canadian Air Force,Boeing-Vertol CH-147F Chinook,H47,Mil,Choppa,Wocka Wocka,Twin Rotor,Other Air Forces,https://w.wiki/9Jrr
 C2BE09,188769,Royal Canadian Air Force,McDonnell Douglas CF-188 Hornet,F18H,Mil,Zoomies,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C1F1,144619,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Puppers,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C1FB,144620,Royal Canadian Air Force,Bombardier CC-144D,CL60,Mil,Puppers,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C309,145404,Royal Canadian Air Force,Textron Aviation CE-145C Vigilence,B350,Mil,ISR,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C363,330002,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
 C2C36D,330003,Royal Canadian Air Force,Airbus CC-330 Husky,A332,Mil,Strategic Airlift,To Be Faaaaaaaaaaaaaaaaaaair,Sic itur ad astra,Other Air Forces,https://w.wiki/9Jrr
+C2C377,330004,Royal Canadian Air Force,Airbus A330-200,A332,Mil,Tactical Airlift,Cargo,VIP Transport,Other Air Forces,https://w.wiki/9Jrr
 C815A3,ZK-EAJ,Myanmar Air Force,Beechcraft 1900D,B190,Mil,Military Coup,Free And Fair Elections,Genocide,Other Air Forces,https://w.wiki/4myZ
 C87F0D,NZ3301,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
 C87F0E,NZ3302,Royal New Zealand Air Force,NH Industries NH90 TTH,NH90,Mil,Chopper,Utility,Military Transport,Other Air Forces,https://w.wiki/4tZv
@@ -8708,6 +8722,7 @@ E200AE,T-99,Argentine Air Force,Boeing 737NG,B737,Mil,VIP Transport,Government,F
 E400B3,4111,Mexican Air Force,Embraer ERJ-145MP,E145,Mil,Surveillance,Eye In The Sky,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E400B4,4101,Mexican Air Force,Embraer ERJ-145SA,E145,Mil,Eye In The Sky,Airborne Early Warning,Honour Courage And Loyalty,Other Air Forces,https://w.wiki/4mmP
 E40489,5719,Brazilian Air Force,Embraer EMB.314 Super Tucano A-29,E314,Mil,Display Team,Aerobatics,FAB,Other Air Forces,https://en.wikipedia.org/wiki/Brazilian_Air_Force
+E483BA,2590,Brazilian Air Force,Embraer EMB-190 VC-2,E190,Mil,VIP Transport,Brazil,Lula da Silva,Governments,https://en.wikipedia.org/wiki/Brazilian_Air_Force
 E483D1,N-4003,Brazilian Naval Aviation,Westland Lynx,LYNX,Mil,Light Utility,Anti-Surface Warfare,MdB,Other Navies,https://w.wiki/AEDb
 E48B40,TT-3105,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
 E48B41,TT-3106,Indonesian Air Force,Embraer EMB314 Super Tucano,E314,Mil,Light Attack,Counter Insurgency,Wings Of The Motherland,Other Air Forces,https://w.wiki/4mjV
